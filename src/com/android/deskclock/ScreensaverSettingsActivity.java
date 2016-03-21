@@ -28,6 +28,7 @@ import android.preference.PreferenceScreen;
 import android.provider.Settings;
 import android.view.Menu;
 import android.view.MenuItem;
+import com.android.deskclock.avijit.R;
 
 /**
  * Settings for the Alarm Clock Dream (com.android.deskclock.Screensaver).

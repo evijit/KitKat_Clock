@@ -23,6 +23,7 @@ import android.net.Uri;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.provider.BaseColumns;
+import com.android.deskclock.avijit.R;
 
 import java.text.DateFormatSymbols;
 import java.util.Calendar;

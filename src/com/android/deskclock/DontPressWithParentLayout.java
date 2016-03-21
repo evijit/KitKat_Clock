@@ -20,6 +20,7 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
+import com.android.deskclock.avijit.R;
 
 /**
  * Special class to to allow the parent to be pressed without being pressed

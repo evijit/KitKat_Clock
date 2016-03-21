@@ -23,7 +23,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 
 import com.android.deskclock.CircleTimerView;
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 
 
 public class TimerListItem extends LinearLayout {

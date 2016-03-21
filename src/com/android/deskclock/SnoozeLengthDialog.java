@@ -9,6 +9,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.NumberPicker;
 import android.widget.TextView;
+import com.android.deskclock.avijit.R;
 
 /**
  * A dialog preference that shows a number picker for selecting snooze length

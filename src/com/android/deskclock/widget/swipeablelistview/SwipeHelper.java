@@ -31,7 +31,7 @@ import android.view.VelocityTracker;
 import android.view.View;
 import android.view.animation.LinearInterpolator;
 
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 
 /**
  * Copy of packages/apps/UnifiedEmail - com.android.mail.ui.SwipeHelper with changes.

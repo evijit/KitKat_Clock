@@ -32,6 +32,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.timer.TimerObj;
 
 /**

@@ -31,6 +31,7 @@ import android.net.Uri;
 import android.os.Parcel;
 import android.provider.Settings;
 import android.text.format.DateFormat;
+import com.android.deskclock.avijit.R;
 
 import java.util.Calendar;
 import java.util.HashSet;

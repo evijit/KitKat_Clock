@@ -25,6 +25,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.view.View;
+import com.android.deskclock.avijit.R;
 
 /**
  * Full screen alarm alert: pops visible indicator and plays alarm tone. This

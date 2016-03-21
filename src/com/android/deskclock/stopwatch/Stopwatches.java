@@ -18,7 +18,7 @@ package com.android.deskclock.stopwatch;
 
 import android.content.Context;
 
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 
 public class Stopwatches {
     // Private actions processed by the receiver

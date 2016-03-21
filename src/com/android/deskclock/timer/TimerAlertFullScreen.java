@@ -24,7 +24,7 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.Utils;
 import com.android.deskclock.timer.TimerFragment.OnEmptyListListener;
 

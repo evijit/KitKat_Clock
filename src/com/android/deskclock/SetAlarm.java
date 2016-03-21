@@ -36,6 +36,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
+import com.android.deskclock.avijit.R;
 
 /**
  * Manages each alarm

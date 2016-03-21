@@ -21,6 +21,7 @@ import android.graphics.Paint;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.TextView;
+import com.android.deskclock.avijit.R;
 
 /**
  * Displays text using the special AndroidClock font.

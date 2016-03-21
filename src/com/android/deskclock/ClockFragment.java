@@ -35,6 +35,7 @@ import android.view.ViewGroup;
 import android.view.animation.AnimationUtils;
 import android.widget.ListView;
 
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.worldclock.WorldClockAdapter;
 
 /**

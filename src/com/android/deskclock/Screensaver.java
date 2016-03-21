@@ -35,6 +35,7 @@ import android.view.animation.AccelerateInterpolator;
 import android.view.animation.DecelerateInterpolator;
 
 import com.android.deskclock.Utils.ScreensaverMoveSaverRunnable;
+import com.android.deskclock.avijit.R;
 
 public class Screensaver extends DreamService {
     static final boolean DEBUG = false;

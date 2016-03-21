@@ -17,6 +17,7 @@
 package com.android.deskclock;
 
 import android.app.Fragment;
+import com.android.deskclock.avijit.R;
 
 public class DeskClockFragment extends Fragment {
 

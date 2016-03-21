@@ -41,7 +41,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.accessibility.AccessibilityManager;
 
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 
 import java.util.ArrayList;
 

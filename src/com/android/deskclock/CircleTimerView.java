@@ -10,6 +10,7 @@ import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.view.View;
 
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.stopwatch.Stopwatches;
 
 /**

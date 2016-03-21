@@ -32,6 +32,7 @@ import android.text.format.Time;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.RemoteViews.RemoteView;
+import com.android.deskclock.avijit.R;
 
 import java.util.TimeZone;
 

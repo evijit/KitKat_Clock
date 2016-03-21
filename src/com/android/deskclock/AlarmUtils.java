@@ -21,6 +21,7 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.content.Context;
 import android.widget.Toast;
+import com.android.deskclock.avijit.R;
 
 /**
  * Static utility methods for Alarms.

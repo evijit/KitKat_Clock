@@ -24,7 +24,7 @@ import android.util.Log;
 import android.util.TypedValue;
 import android.widget.RemoteViews;
 
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 
 public class WidgetUtils {
     static final String TAG = "WidgetUtils";

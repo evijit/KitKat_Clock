@@ -29,6 +29,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import com.android.deskclock.avijit.R;
 
 import java.text.DateFormatSymbols;
 import java.util.Calendar;

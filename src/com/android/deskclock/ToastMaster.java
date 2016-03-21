@@ -17,6 +17,7 @@
 package com.android.deskclock;
 
 import android.widget.Toast;
+import com.android.deskclock.avijit.R;
 
 public class ToastMaster {
 

@@ -23,7 +23,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.view.View;
 
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.ZeroTopPaddingTextView;
 
 

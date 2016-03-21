@@ -27,7 +27,7 @@ import android.widget.TextView;
 
 import com.android.deskclock.AnalogClock;
 import com.android.deskclock.DigitalClock;
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.SettingsActivity;
 import com.android.deskclock.Utils;
 

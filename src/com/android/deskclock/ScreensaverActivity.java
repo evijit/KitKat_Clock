@@ -32,6 +32,7 @@ import android.view.Window;
 import android.view.WindowManager;
 
 import com.android.deskclock.Utils.ScreensaverMoveSaverRunnable;
+import com.android.deskclock.avijit.R;
 
 public class ScreensaverActivity extends Activity {
     static final boolean DEBUG = false;

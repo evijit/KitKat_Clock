@@ -32,7 +32,7 @@ import android.widget.RemoteViews;
 import android.widget.RemoteViewsService.RemoteViewsFactory;
 
 import com.android.deskclock.Alarms;
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.Utils;
 import com.android.deskclock.worldclock.CityObj;
 import com.android.deskclock.worldclock.WorldClockAdapter;

@@ -24,6 +24,7 @@ import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.net.Uri;
+import com.android.deskclock.avijit.R;
 
 /**
  * Helper class for opening the database from multiple providers.  Also provides

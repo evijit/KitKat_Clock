@@ -28,7 +28,6 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
-import android.support.v13.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.util.Log;
 import android.view.Menu;
@@ -38,7 +37,7 @@ import android.view.View;
 import android.view.View.OnTouchListener;
 import android.widget.PopupMenu;
 import android.widget.TextView;
-
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.stopwatch.StopwatchFragment;
 import com.android.deskclock.stopwatch.StopwatchService;
 import com.android.deskclock.stopwatch.Stopwatches;
@@ -46,6 +45,9 @@ import com.android.deskclock.timer.TimerFragment;
 import com.android.deskclock.timer.TimerObj;
 import com.android.deskclock.timer.Timers;
 import com.android.deskclock.worldclock.CitiesActivity;
+import android.support.v13.app.FragmentPagerAdapter;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.*;
 
 import java.util.ArrayList;
 import java.util.HashSet;

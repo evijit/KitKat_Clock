@@ -32,7 +32,7 @@ import com.android.deskclock.CircleTimerView;
 import com.android.deskclock.DeskClock;
 import com.android.deskclock.DeskClockFragment;
 import com.android.deskclock.Log;
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.Utils;
 import com.android.deskclock.timer.CountingTimerView;
 

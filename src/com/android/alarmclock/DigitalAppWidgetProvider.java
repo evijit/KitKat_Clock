@@ -35,7 +35,7 @@ import android.widget.RemoteViews;
 
 import com.android.deskclock.Alarms;
 import com.android.deskclock.DeskClock;
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.Utils;
 
 import java.util.Calendar;

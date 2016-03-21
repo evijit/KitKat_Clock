@@ -23,6 +23,7 @@ import android.content.SharedPreferences;
 import android.os.PowerManager.WakeLock;
 import android.preference.PreferenceManager;
 
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.timer.TimerObj;
 
 public class AlarmInitReceiver extends BroadcastReceiver {

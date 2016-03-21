@@ -29,7 +29,7 @@ import android.view.accessibility.AccessibilityManager;
 import android.widget.TextView;
 
 import com.android.deskclock.Log;
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.Utils;
 
 

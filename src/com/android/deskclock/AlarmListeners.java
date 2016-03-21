@@ -17,6 +17,7 @@
 package com.android.deskclock;
 
 import android.view.View;
+import com.android.deskclock.avijit.R;
 
 /** Change me */
 public class AlarmListeners {

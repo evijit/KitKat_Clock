@@ -20,6 +20,7 @@
 
 package com.android.deskclock;
 
+import com.android.deskclock.avijit.R;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

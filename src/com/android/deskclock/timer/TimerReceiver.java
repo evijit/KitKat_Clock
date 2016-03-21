@@ -28,7 +28,7 @@ import android.preference.PreferenceManager;
 import android.util.Log;
 
 import com.android.deskclock.DeskClock;
-import com.android.deskclock.R;
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.TimerRingService;
 import com.android.deskclock.Utils;
 

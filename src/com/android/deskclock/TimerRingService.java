@@ -29,6 +29,7 @@ import android.net.Uri;
 import android.os.IBinder;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
+import com.android.deskclock.avijit.R;
 
 /**
  * Play the timer's ringtone. Will continue playing the same alarm until service is stopped.

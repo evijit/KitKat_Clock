@@ -18,6 +18,7 @@ package com.android.deskclock;
 
 import android.content.Context;
 import android.os.PowerManager;
+import com.android.deskclock.avijit.R;
 
 /**
  * Hold a wakelock that can be acquired in the AlarmReceiver and

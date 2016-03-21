@@ -18,6 +18,7 @@ package com.android.deskclock;
 
 import android.os.Handler;
 import android.os.HandlerThread;
+import com.android.deskclock.avijit.R;
 
 /**
  * Helper class for managing the background thread used to perform io operations

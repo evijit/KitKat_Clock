@@ -15,13 +15,13 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.deskclock.tests">
+    package="com.android.deskclock.avijit">
 
     <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
     <application>
         <uses-library android:name="android.test.runner" />
 
-        <activity android:name="TestAddAlarm" android:label="Test Adding Alarm">
+        <activity android:name="com.android.deskclock.TestAddAlarm" android:label="Test Adding Alarm">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.DEFAULT" />

@@ -31,6 +31,7 @@ import android.text.format.DateUtils;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.android.deskclock.avijit.R;
 import com.android.deskclock.worldclock.Cities;
 
 import java.util.ArrayList;

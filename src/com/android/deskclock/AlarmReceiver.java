@@ -24,6 +24,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Parcel;
 import android.os.PowerManager.WakeLock;
+import com.android.deskclock.avijit.R;
 
 import java.util.Calendar;
 
